@@ -1,0 +1,11 @@
+{
+	"token": "Nzk0OTQ2MTEzNjk0MDcyOTAy.X_CNQg.3TnN89IbZE5438lGQS7dBFwdiVA",
+	"testToken": "Nzk0OTQ2MTEzNjk0MDcyOTAy.X_CNQg.3TnN89IbZE5438lGQS7dBFwdiVA",
+	"dblToken": "N/A",
+	"sentry": "Sentry token",
+	"specialPeople": {
+		"1324889012": "This user works for Polaris.",
+		"1324889012": "This user is the Polaris developer.",
+		"Roblox id": "Desc string to be shown"
+	}
+}
